@@ -388,6 +388,9 @@ h3{font-weight:400;line-height:1.3;letter-spacing:-.01em}
 }
 @media (max-width:760px){
   .top__in{height:4.6rem}
+  /* título do topo sempre em 4 linhas (Família, / sucessões, / desportivo / e marcas.): com a Poppins e com a fonte reserva,
+     senão ele muda de 4 para 3 linhas quando a fonte chega e empurra as fotos */
+  .capa:not(.capa--area) h1{max-width:5.5em;margin-inline:auto}
   .marca__nome{height:.98rem}
   .marca__coluna{height:2.2rem}
   .marca{gap:.6rem}
