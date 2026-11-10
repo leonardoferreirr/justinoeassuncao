@@ -1,0 +1,23 @@
+# Justino & Assunção Advogados
+
+> Escritório de advocacia em Uberlândia, MG, com atendimento em todo o Brasil por processo eletrônico.
+
+## Áreas
+- [Direito de Família](https://justinoeassuncao.vercel.app/familia): Divórcio em cartório ou na Justiça, pensão alimentícia, guarda e convivência com os filhos e fim da união estável.
+- [Inventário e Sucessões](https://justinoeassuncao.vercel.app/inventario): Inventário em cartório ou na Justiça e partilha de bens, representando todos os herdeiros ou só uma parte deles.
+- [Direito Desportivo](https://justinoeassuncao.vercel.app/desportivo): Contratos de atletas e técnicos, valores devidos pelo clube, certificação de clube formador e pedido do Bolsa Atleta.
+- [Registro de Marca](https://justinoeassuncao.vercel.app/marcas): Estudo prévio, pedido no INPI e acompanhamento até a decisão, além de contratos e notificações sobre a marca.
+- [Direito Previdenciário](https://justinoeassuncao.vercel.app/previdenciario): Aposentadoria, revisão, auxílio por incapacidade, BPC/LOAS e recurso quando o INSS nega o benefício.
+- [Direito Civil](https://justinoeassuncao.vercel.app/civel): Contratos, cobranças, indenizações e direito do consumidor, tanto na defesa quanto na ação.
+
+## Perguntas frequentes
+- Vocês atendem fora de Uberlândia? Sim. Quando o processo é eletrônico, atuamos em qualquer lugar do Brasil, e a conversa com você pode ser toda a distância. Se algum ato exigir presença, avisamos antes de começar.
+- Dá para resolver no cartório, sem processo? Em alguns casos, sim. Divórcio e inventário podem ser feitos no cartório, por escritura, quando há acordo e a lei permite. Mesmo no cartório, é obrigatório ter advogado.
+- Como são combinados os honorários? Depois de entender o seu caso, apresentamos a proposta de honorários por escrito. Tudo fica em contrato, assinado antes de o trabalho começar.
+- Vocês prometem resultado? Não. Quem decide é o juiz ou o órgão responsável, como o INSS ou o INPI, e a ética da advocacia proíbe prometer resultado. O nosso compromisso é com o trabalho: estudo do caso, técnica e acompanhamento em cada etapa.
+- O que eu conto fica em sigilo? Sim. O sigilo entre advogado e cliente é um dever profissional. O que você conta fica entre você e o escritório.
+- O que levar para a primeira conversa? Um resumo do que aconteceu e os documentos que você tiver. Na página de cada área há uma lista do que separar.
+
+## Contato
+WhatsApp: (34) 98435-0751
+Site: https://justinoeassuncao.vercel.app/

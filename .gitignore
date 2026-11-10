@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.vercel
+# originais de 14 MB das fotos dos sócios: o projeto usa as versões -1800
+assets/src/fotos-ja/felipe.jpg
+assets/src/fotos-ja/eduardo.jpg
